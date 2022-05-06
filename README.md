@@ -1,6 +1,6 @@
 ## Hey, Derek Song there 👋
 
-[<img align="right" width="50%" src="https://github-readme-stats-sandy-dereks-tau.vercel.app/api?username=derek-s">](https://github.com/derek-s/github-readme-stats)
+[<img align="right" width="50%" src="https://github-readme-stats-sandy-dereks-tau.vercel.app/api?username=derek-s&show_icons=true">](https://github.com/derek-s/github-readme-stats)
 
 - HTML / CSS / JavaScript / TypeScript / Bootstrap/  Vue / Python / Flask
 - Ubuntu / i3-wm / Thinkpad / Nikon DSLR user

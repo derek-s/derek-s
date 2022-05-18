@@ -10,10 +10,14 @@
 <br><br>
 
 ---
+
 <div style="height:300px">
+
 [<img align="right" width="50%" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif">](https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif)
 ![Metrics](/github-metrics.svg)
+
 </div>
+
 ---
 
 #### :bar_chart: [Monthly coding time](https://github.com/athul/waka-readme)

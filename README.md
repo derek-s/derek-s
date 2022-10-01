@@ -21,8 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-PowerShell   1 hr 38 mins    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨   98.94 %
-Other        1 min           🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

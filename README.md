@@ -10,10 +10,10 @@
 <br><br>
 
 ---
-<div style="height:250px">
+
 [<img align="right" width="50%" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif">](https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif)
-![Metrics](/github-metrics.svg)
-</div>
+![<div style="height:250px">Metrics</div>](/github-metrics.svg)
+
 
 <br><br>
 ---

@@ -31,3 +31,7 @@ Other           8 mins          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 <!--END_SECTION:waka-->
+
+<div align="center">
+    <img  src="https://visitor-badge.glitch.me/badge?page_id=derek-s" />
+</div>

@@ -2,8 +2,8 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<div class="container">
-				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-				<p>Click to see the source</p>
+				 <img align="right" width="50%" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" />
+  				<img align="left" width="50%" src="/github-metrics.svg" alt="Metrics" />
 			</div>
 		</div>
 	</foreignObject>

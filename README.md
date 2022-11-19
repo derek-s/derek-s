@@ -10,9 +10,11 @@
 <br><br>
 
 ---
-[<img align="right" width="50%" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif">](https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif)
-![<img align="left" width="50%" src="/github-metrics.svg" alt="Metrics">](/github-metrics.svg)
 
+<div style="height: 250px">
+  <img align="right" width="50%" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif">
+  <img align="left" width="50%" src="/github-metrics.svg" alt="Metrics">
+</div>
 
 <br><br>
 ---

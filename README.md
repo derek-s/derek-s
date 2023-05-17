@@ -18,5 +18,9 @@
 ---
 
 #### :bar_chart: [Monthly coding time](https://github.com/athul/waka-readme)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=derek-s" alt="derek-s" /> </p>

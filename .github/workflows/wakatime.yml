@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          TIME_RANGE: last_30_days
+          TIME_RANGE: last_7_days
           SHOW_MASKED_TIME: true
           WAKATIME_API_KEY: ${{secrets.WAKATIME_TOKEN}}
-          BLOCKS: "⬜🟨🟩"
+          BLOCKS: "->"

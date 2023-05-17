@@ -31,5 +31,5 @@ CSV      8 mins          🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 <!--END_SECTION:waka-->
 
-
+[![wakatime](https://wakatime.com/badge/user/e0e2ff8b-0036-4cb7-999a-1f609861bcf1.svg)](https://wakatime.com/@e0e2ff8b-0036-4cb7-999a-1f609861bcf1)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=derek-s" alt="derek-s" /> </p>

@@ -13,6 +13,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          API_BASE_URL: https://wakatime.com/api/v1
+          TIME_RANGE: last_30_days
+          SHOW_MASKED_TIME: true
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
           BLOCKS: "⬜🟨🟩"

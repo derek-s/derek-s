@@ -19,9 +19,4 @@
 
 #### :bar_chart: [Monthly coding time](https://github.com/athul/waka-readme)
 <!--START_SECTION:waka-->
-
-```text
-CSV   0 secs          🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   100.00 %
-```
-
 <!--END_SECTION:waka-->

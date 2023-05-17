@@ -22,14 +22,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
-Total Time: 2 hrs 58 mins
-
-Python   2 hrs 50 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜   95.31 %
-CSV      8 mins          🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.69 %
-```
-
 <!--END_SECTION:waka-->
 
-[![wakatime](https://wakatime.com/badge/user/e0e2ff8b-0036-4cb7-999a-1f609861bcf1.svg)](https://wakatime.com/@e0e2ff8b-0036-4cb7-999a-1f609861bcf1)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=derek-s" alt="derek-s" /> </p>
+<p align="center"><img src="https://wakatime.com/badge/user/e0e2ff8b-0036-4cb7-999a-1f609861bcf1.svg" alt="waka-dereks" />  <img src="https://komarev.com/ghpvc/?username=derek-s" alt="derek-s" /> </p>
+

@@ -23,9 +23,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 0 secs
+Total Time: 4 hrs 3 mins
 
-CSV   0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+CSS        2 hrs 24 mins   >>>>>>>>>>>>>>>----------   59.38 %
+PHP        1 hr 37 mins    >>>>>>>>>>---------------   39.98 %
+sh         1 min           -------------------------   00.43 %
+Other      0 secs          -------------------------   00.18 %
+CSV        0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->

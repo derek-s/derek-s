@@ -23,8 +23,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js   46 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨   97.31 %
-sh       1 min           🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.69 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

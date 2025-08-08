@@ -23,8 +23,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-CSV     0 secs          🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨   98.76 %
-Other   0 secs          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
